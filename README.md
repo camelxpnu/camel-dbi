@@ -28,12 +28,15 @@ _**Get started (Windows 10)**_
         we use tensorflow.keras for training of neural networks
         And scikit-learn will be used to divide test sets and validation sets.
         
+        
   5) Anaconda3 setting is done! check the environment with example code.
       : 'Play' button - 'Open with Jupyter Notebook' - $Your Path of dir - examples - example1_environment_check.ipynb
+      
       
 **2. Data collection**
   - Collect data from simulators or your robots
   - NOTE : we have to save the data in **Numpy Array format** In order to use it in the training sequence.
+
 
 **3. Init. Machine Learning!**
   - Open example2_DNN.ipynb
