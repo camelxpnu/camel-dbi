@@ -20,9 +20,9 @@ _**Get started (Windows 10)**_
        
         You can download libraries through under commands
         -----------------------------------------------------------------------
-        | **Library**       **Required version**  **Command**                 |                 
-        | Tensorflow    2.5.0             pip install tensorflow==2.5.0       |
-        | Scikit-learn  0.24.2            pip install scikit-learn==0.24.2    | 
+         **Library**       **Required version**  **Command**                                  
+         Tensorflow    2.5.0             pip install tensorflow==2.5.0       
+         Scikit-learn  0.24.2            pip install scikit-learn==0.24.2     
         -----------------------------------------------------------------------
         
         we use tensorflow.keras for training of neural networks
