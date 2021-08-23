@@ -20,11 +20,12 @@ Get started (Windows 10)
 >  4) Download libraries   
 >      : 'Play' button - 'Open Terminal'   
 >       You can download libraries through under commands   
-        
+>        
 >         Library       Required version  Command                                  
 >         Tensorflow    2.5.0             pip install tensorflow==2.5.0       
 >         Scikit-learn  0.24.2            pip install scikit-learn==0.24.2     
 >        -----------------------------------------------------------------   
+>        
 >        ######we use tensorflow.keras for training of neural networks and scikit-learn will be used to divide test sets and validation sets.
         
         
