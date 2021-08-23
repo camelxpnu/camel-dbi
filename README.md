@@ -6,7 +6,8 @@ For the more agile movements of the robots, we need to identify the dynamic stat
 we estimate the dynamic states of the robots through machine learning (especially Neural Networks) with current states of the robots.
 Let's Start with us!!!
 
-
+\n
+\n
 _**Get started (Windows 10)**_
 
 **1. Environment settings (Anaconda3)**
