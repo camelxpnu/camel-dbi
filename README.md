@@ -19,6 +19,7 @@ _**Get started (Windows 10)**_
       : 'Play' button - 'Open Terminal'
        
         You can download libraries through under commands
+        
         -----------------------------------------------------------------------
          Library       Required version  Command                                  
          Tensorflow    2.5.0             pip install tensorflow==2.5.0       
