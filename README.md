@@ -6,6 +6,7 @@ For the more agile movements of the robots, we need to identify the dynamic stat
 we estimate the dynamic states of the robots through machine learning (especially Neural Networks) with current states of the robots.
 Let's Start with us!!!
 
+
 _**Get started (Windows 10)**_
 
 **1. Environment settings (Anaconda3)**
@@ -35,9 +36,13 @@ _**Get started (Windows 10)**_
       : 'Play' button - 'Open with Jupyter Notebook' - $Your Path of dir - examples - example1_environment_check.ipynb
       
       
+      
+      
 **2. Data collection**
   - Collect data from simulators or your robots
   - NOTE : we have to save the data in **Numpy Array format** In order to use it in the training sequence.
+
+
 
 
 **3. Init. Machine Learning!**
