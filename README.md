@@ -26,7 +26,7 @@ Get started (Windows 10)
 >         Scikit-learn  0.24.2            pip install scikit-learn==0.24.2     
 >        -----------------------------------------------------------------   
 >        
->        ######we use tensorflow.keras for training of neural networks and scikit-learn will be used to divide test sets and validation sets.
+>        we use tensorflow.keras for training of neural networks and scikit-learn will be used to divide test sets and validation sets.
         
         
 >  5) Anaconda3 setting is done! check the environment with example code.   
