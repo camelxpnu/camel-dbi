@@ -30,6 +30,7 @@ _**Get started (Windows 10)**_
         
         
   5) Anaconda3 setting is done! check the environment with example code.
+
       : 'Play' button - 'Open with Jupyter Notebook' - $Your Path of dir - examples - example1_environment_check.ipynb
       
       
